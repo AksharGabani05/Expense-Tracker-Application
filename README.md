@@ -1,14 +1,34 @@
-# React Expense Tracker - ReactJS Projects
+💰 Expense Tracker Application
+📊 Track your expenses, manage your budget, and stay in control of your finances.
 
-### Demo - Deployed over Github Pages 
-https://github.com/AksharGabani05/Expense-Tracker-Application/
+🌟 Overview
+The Expense Tracker Application is a simple and intuitive React.js web app that helps users monitor their income and expenses. It provides an easy way to categorize transactions, visualize spending patterns, and manage budgets effectively.
 
-### Live Demo ###
+📂 Features
+✔️ Add Transactions: Record income and expenses with category, amount, and date.
+✔️ Transaction History: View and edit a list of all recorded transactions.
+✔️ Categorization: Categorize expenses for better organization.
+✔️ Budget Tracking: Set a budget and track your spending.
+✔️ Data Visualization: Interactive charts to display income and expense breakdowns.
+✔️ Responsive Design: Fully optimized for mobile, tablet, and desktop.
 
-### Libraries used
-* `styled-components`
-* `react-scripts`
+🛠️ Tech Stack
+Frontend: React.js, HTML, CSS, TailwindCSS/Bootstrap
+State Management: Context API or Redux
+Libraries: Chart.js, Axios, React Toastify
+Routing: React Router
+Icons: React Icons
+🎨 Screenshots
+1️⃣ Dashboard
 
-### Whom do I talk to? ###
+2️⃣ Add Transaction Page
 
-* Akshar Gabani : https://gabaniakshar.pages.dev/
+3️⃣ Analytics & Reports
+
+👨‍💻 Author
+👤 Akshar Gabani
+📧 Email: akshargabani9425@gmail.com
+🌐 GitHub: AksharGabani05
+
+🌐 Live Demo : 
+
