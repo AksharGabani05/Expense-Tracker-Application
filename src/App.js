@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import HomeComponent from "./modules/home";
+import HomeComponent from "./home";
 
 const Container = styled.div`
   background-color: white;
